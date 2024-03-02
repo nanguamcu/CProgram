@@ -7,7 +7,7 @@ int main()
 	{
 		if (ch <= '0' || ch >= '9')
 			continue;
-
+		//ÃÌº”“ª––
 		putchar(ch);
 	}
 		

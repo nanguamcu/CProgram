@@ -1,10 +1,11 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-//×Ö·û´®+×ªÒå×Ö·û+×¢ÊÍ
-//×Ö·û´®
+//å­—ç¬¦ä¸²+è½¬ä¹‰å­—ç¬¦+æ³¨é‡Š
+//å­—ç¬¦ä¸²
+//æµ‹è¯•Github
 
 
 //#define _CRT_SECURE_NO_WARNINGS 1
-////newc++file.cppÌí¼Ó #define _CRT_SECURE_NO_WARNINGS 1
+////newc++file.cppæ·»åŠ  #define _CRT_SECURE_NO_WARNINGS 1
 //#include <stdio.h>
 //#define MAX 10
 //enum sex
@@ -15,11 +16,11 @@
 //};
 //int main()
 //{
-//	//³£Á¿
-//	//1¡¢×ÖÃæ³£Á¿£¬Öµ
-//	//2¡¢constĞŞÊÎµÄ³£±äÁ¿
-//	//3¡¢#define ±êÊ¶µÄ³£Á¿
-//	//4¡¢Ã¶¾Ù³£Á¿ Ã¶¾ÙÒ»Ò»ÁĞ¾Ù Ã¶¾Ù¹Ø¼ü×Öenum
+//	//å¸¸é‡
+//	//1ã€å­—é¢å¸¸é‡ï¼Œå€¼
+//	//2ã€constä¿®é¥°çš„å¸¸å˜é‡
+//	//3ã€#define æ ‡è¯†çš„å¸¸é‡
+//	//4ã€æšä¸¾å¸¸é‡ æšä¸¾ä¸€ä¸€åˆ—ä¸¾ æšä¸¾å…³é”®å­—enum
 //	enum sex sex1 = MALE;
 //	printf("%d\n",sex1);
 //	printf("%d\n", FMALE);

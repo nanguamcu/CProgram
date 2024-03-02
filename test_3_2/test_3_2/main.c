@@ -1,19 +1,32 @@
-#define _CRT_SECURE_NO_WARNINGS 
+ï»¿#define _CRT_SECURE_NO_WARNINGS 
 #include<stdio.h>
 int main()
-{
-	int ch = 0;
-	while((ch = getchar()) != 'EOF')
+{       //åˆå§‹åŒ–    
+	for (int i = 0; i < 10; i++)
 	{
-		if (ch <= '0' || ch >= '9')
+		if (i == 5)
 			continue;
-		//Ìí¼ÓÒ»ĞĞ
-		putchar(ch);
+		printf("for å¾ªç¯,%d\n",i);
+
 	}
 		
-	
-
-
 
 	return 0;
 }
+//int main()
+//{
+//	int ch = 0;
+//	while((ch = getchar()) != 'EOF')
+//	{
+//		if (ch <= '0' || ch >= '9')
+//			continue;
+//		//æ·»åŠ ä¸€è¡Œ
+//		putchar(ch);
+//	}
+//		
+//	
+//
+//
+//
+//	return 0;
+//}

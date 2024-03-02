@@ -7,6 +7,7 @@ int main()
 	{
 		if (ch <= '0' || ch >= '9')
 			continue;
+
 		putchar(ch);
 	}
 		
